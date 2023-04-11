@@ -1,4 +1,4 @@
-# Web Design Homework - Web Visualization Dashboard (Latitude)
+# Web Design - Web Visualization Dashboard (Latitude)
 
 Website = https://dianabaltazar.github.io/Web-Design-Challenge/
 ## Background
